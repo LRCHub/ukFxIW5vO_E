@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "MURAMASA",
+  "base_artist": "小野　正利",
+  "createdAt": "2026-01-13T18:01:20.717233Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Muramasa",
+      "artist": "Periphery",
+      "has_synced": true,
+      "path": "select/01_Muramasa_Periphery.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Muramasa Blade!",
+      "artist": "She is Legend",
+      "has_synced": false,
+      "path": "select/02_Muramasa_Blade!_She_is_Legend.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Muramasa Blade!",
+      "artist": "She is Legend",
+      "has_synced": false,
+      "path": "select/03_Muramasa_Blade!_She_is_Legend.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Periphery - Muramasa [Instrumental] ＊exclusive＊",
+      "artist": "Periphery",
+      "has_synced": true,
+      "path": "select/04_Periphery_-_Muramasa_[Instrumental]__exclusive_Periphery.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Muramasa Blade!",
+      "artist": "She is Legend、麻枝准",
+      "has_synced": true,
+      "path": "select/05_Muramasa_Blade!_She_is_Legend、麻枝准.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "🗽THROW-BACK PG ONE   🚀 ：MURAMASA【 2017 LYRIC VIDEO 】",
+      "artist": "ZHONG.TV",
+      "has_synced": true,
+      "path": "select/06_🗽THROW-BACK_PG_ONE_🚀__MURAMASA【_2017_LYRIC_VIDEO_】_ZHONG.TV.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MURAMASA",
+      "artist": "小野 正利",
+      "has_synced": false,
+      "path": "select/pl_01_MURAMASA_小野_正利.txt"
+    }
+  ]
+}
